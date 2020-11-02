@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T12:27:58.791Z" agent="5.0 (Windows)" etag="Kp2pcAPpgs2GVvg9Xw_l" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T12:28:41.458Z" agent="5.0 (Windows)" etag="xmUKDvCjo2oIjwboF-Or" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="981" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
         <mxCell id="VhMwUYRNfY7Nuu_vpCEj-30" value="- per_price" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VhMwUYRNfY7Nuu_vpCEj-18" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="VhMwUYRNfY7Nuu_vpCEj-31" value="- imal fiyatı" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VhMwUYRNfY7Nuu_vpCEj-18" vertex="1">
+        <mxCell id="VhMwUYRNfY7Nuu_vpCEj-31" value="- manufacturing price" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VhMwUYRNfY7Nuu_vpCEj-18" vertex="1">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VhMwUYRNfY7Nuu_vpCEj-32" value="- price" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VhMwUYRNfY7Nuu_vpCEj-18" vertex="1">
