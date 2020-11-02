@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T11:13:52.342Z" agent="5.0 (Windows)" etag="1aXeg7dwra0ALOFCA-63" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T11:14:25.923Z" agent="5.0 (Windows)" etag="wPoLjtdcmUY4sHX6cPaE" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1955" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -397,7 +397,7 @@
         <mxCell id="VhMwUYRNfY7Nuu_vpCEj-34" value="- note" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VhMwUYRNfY7Nuu_vpCEj-18">
           <mxGeometry y="260" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="VhMwUYRNfY7Nuu_vpCEj-35" value="- miyat" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VhMwUYRNfY7Nuu_vpCEj-18">
+        <mxCell id="VhMwUYRNfY7Nuu_vpCEj-35" value="- miad" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VhMwUYRNfY7Nuu_vpCEj-18">
           <mxGeometry y="286" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VhMwUYRNfY7Nuu_vpCEj-36" value="- seri no" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VhMwUYRNfY7Nuu_vpCEj-18">
