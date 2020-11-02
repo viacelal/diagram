@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T13:26:44.320Z" agent="5.0 (Windows)" etag="oBpxo8fv2Ae5zJQ0fgCg" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T13:38:47.067Z" agent="5.0 (Windows)" etag="PgboXGV4bR_KoKZs0uX2" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1460" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,20 +195,23 @@
         <mxCell id="mDpFvBG_IPXIdxK37xss-4" value="- order_id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IGOX1O0Ey2SUrrehoA98-43">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IGOX1O0Ey2SUrrehoA98-45" value="- drug_name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
+        <mxCell id="IGOX1O0Ey2SUrrehoA98-45" value="- drug id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IGOX1O0Ey2SUrrehoA98-46" value="- drug_quantity" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mDpFvBG_IPXIdxK37xss-2" value="- note" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IGOX1O0Ey2SUrrehoA98-43">
+        <mxCell id="mDpFvBG_IPXIdxK37xss-5" value="- expration date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IGOX1O0Ey2SUrrehoA98-43">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="mDpFvBG_IPXIdxK37xss-2" value="- note" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IGOX1O0Ey2SUrrehoA98-43">
+          <mxGeometry y="156" width="160" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="IGOX1O0Ey2SUrrehoA98-52" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
-          <mxGeometry y="156" width="160" height="8" as="geometry" />
+          <mxGeometry y="182" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="IGOX1O0Ey2SUrrehoA98-53" value="- - -" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
-          <mxGeometry y="164" width="160" height="26" as="geometry" />
+          <mxGeometry y="190" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IGOX1O0Ey2SUrrehoA98-54" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IGOX1O0Ey2SUrrehoA98-20" target="IGOX1O0Ey2SUrrehoA98-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
