@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T05:26:26.707Z" agent="5.0 (Windows)" etag="huytUfXkHpsM84p7MNep" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T05:26:39.986Z" agent="5.0 (Windows)" etag="MQzaWaKlMT0ZjX5cAu-1" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1460" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxPoint x="-7.93" y="-3.7199999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IGOX1O0Ey2SUrrehoA98-16" value="ORDER" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IGOX1O0Ey2SUrrehoA98-16" value="CUSTOMER_ORDER" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="30" width="160" height="554" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
