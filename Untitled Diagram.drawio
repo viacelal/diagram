@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T13:54:04.910Z" agent="5.0 (Windows)" etag="u7sZpZVcz-_Z0pz5L0lV" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T13:54:14.442Z" agent="5.0 (Windows)" etag="ohLvdjsMboJesXZKIxK4" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IGOX1O0Ey2SUrrehoA98-44" value="- customer_order_drugs_id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
+        <mxCell id="IGOX1O0Ey2SUrrehoA98-44" value="- order_drugs_id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mDpFvBG_IPXIdxK37xss-4" value="- customer_order_id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IGOX1O0Ey2SUrrehoA98-43" vertex="1">
